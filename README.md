@@ -1,8 +1,8 @@
-### Hi 👋
+<!-- ### Hi 👋
 
 I'm a game dev and visual novel writer. ✍️
 
-⬅️ You can find my links on the side.
+⬅️ You can find my links on the side. -->
 
 <!--
 **LeyKlussyn/LeyKlussyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
